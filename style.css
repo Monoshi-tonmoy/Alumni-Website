@@ -1,0 +1,103 @@
+*
+{
+    margin:0;
+    padding:0;
+    
+}
+.row
+{
+    max-width: 1140 px;
+    margin 0 auto;
+
+}
+body
+{
+    font-family:sans-serif;
+    
+    
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.3)),url(Building.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.main-nav
+{
+    list-style-type: none;
+    float:right;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+.main-nav li{
+    display: inline-block;
+    margin-left: 25px;
+}
+.main-nav li a{
+    color:rgba(255,255,255,1);
+    font-size: 20px;
+    text-decoration: inherit;
+    font-weight: bold;
+}
+.main-nav li a:hover
+{
+    color:skyblue;
+    border-bottom: 2px solid;
+    border-bottom-color: skyblue;
+    transition: all 0.5s ease-in;
+    padding: 15px 0;
+}
+
+.logo img{
+    height:150px;
+    float: left;
+}
+.logo{
+    margin-left: 70px;
+}
+.des{
+    width: 80%;
+    margin-left: 15%;
+    margin-bottom: 20px;
+    font-weight: 50px;
+}
+.About h2{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+h2: after
+{
+    width: 100px;
+    height: 20px;
+    background-color: #e67e22;
+    display: block;
+    content:" ";
+    margin:0 auto;
+    margin-top: 30px;
+}
+.arranging
+{
+    text-align: justify;
+}
+.About i{
+    font-size: 50px;
+    color: yellowgreen;
+    margin-left: 25%
+}
+.About h3{
+        margin-left: 40px;
+}
+h1{
+    font:100px solid white;
+    text-align: center;
+    transform: translate(0%,50%);
+    font-family: 'Krub', sans-serif;
+    transition: all 1.5s ease-in;
+    color:white;
+    
+}
