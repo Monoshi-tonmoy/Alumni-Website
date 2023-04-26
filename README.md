@@ -15,7 +15,7 @@ Search: Current students can search for alumni by their name, job place, or scho
 
 
 Credits
-This project was developed by [Your Name] as a part of [School Name]'s alumni program. The project uses the following third-party libraries and frameworks:
+This project was developed as a term project. The project uses the following third-party libraries and frameworks:
 
 Bootstrap: https://getbootstrap.com/
 PHPMailer: https://github.com/PHPMailer/PHPMailer
